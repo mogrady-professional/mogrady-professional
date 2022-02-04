@@ -1,11 +1,10 @@
 <p align="center">
 <img src="assets/bg2.jpg" alt="Michael O'Grady" height="auto" width="850px">
 </p>
-<h2 align="center">Hi there :wave: I'm Michael O'Grady. Welcome to my <em>Professional Github Account</em>	&nbsp;<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="linux" width="25" height="25"/></h2>
+<h2 align="center">Hi there :wave: I'm Michael O'Grady. Welcome to my <em>Professional Github Account</em>	&nbsp;<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="25" height="25"/></h2>
 <p align="center">🤵 Software Engineer | Full-Stack Developer | 📍🌍 West of Ireland 🏡☘️ | Professional Account | Production & Development</p>
 <p align="center">
-  <em>My Professional Account consists mostly of private repositories for version control of my own proprietary software with other associated development tools, source code, productivity hacks & resources.</p>
- </em> 
+  <em>My Professional Account consists mostly of private repositories for version control of my own proprietary software with other associated development tools, source code, productivity hacks & resources.</em> </p>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mogrady-professional.visitor-badge&left_text=Visitors%20Since%20'22)
 [![gitHub followers](https://img.shields.io/github/followers/mogrady-professional.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mogrady-professional?tab=followers)
