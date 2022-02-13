@@ -5,9 +5,9 @@
 <p align="center">🤵 Software Engineer | 💻 Full-Stack Developer | 📍🌍 West of Ireland 🏡☘️ | 🤵 Professional Account | 🏗️ Production & Development</p>
 <p align="center">
   <em>My Professional Account consists mostly of private repositories for version control of my own proprietary software with other associated development tools, source code, productivity hacks & resources.</em> </p>
-
+  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mogrady-professional.visitor-badge&left_text=Visitors%20Since%20'22)
-[![gitHub followers](https://img.shields.io/github/followers/mogrady-professional.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mogrady-professional?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/mogrady-professional?style=social&label=Follow&maxAge=2592000)](https://github.com/mogrady-professional?tab=followers)
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Software%20Engineering-blue" />
 <img src="https://img.shields.io/badge/Lives-Mayo,%20Ireland-18d26e" />
 <img src="https://img.shields.io/badge/Works-Software%20Engineer-a6120d" />
