@@ -77,10 +77,13 @@
 [![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mogrady-professional&show_icons=true&theme=dark&hide=issues)](https://github.com/mogrady-professional/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mogrady-personal&show_icons=true&theme=dark&layout=compact&langs_count=10)](https://github.com/mogrady-personal/github-readme-stats)
 -->
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mogrady-professional&show_icons=true&theme=dark&hide=issues)](https://github.com/mogrady-professional/github-readme-stats" width="417px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogrady-personal&show_icons=true&theme=dark&layout=compact&langs_count=10" width="350px"/>
+ </p>
 <hr>
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes"/>
+</p>
 <!-- 
 ### Web Development:
 ### Tech I use: 
