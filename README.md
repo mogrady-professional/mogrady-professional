@@ -79,6 +79,8 @@
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=mogrady-professional&show_icons=true&theme=dark&hide=issues)](https://github.com/mogrady-professional/github-readme-stats" width="417px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogrady-personal&show_icons=true&theme=dark&layout=compact&langs_count=10" width="350px"/>
+<hr>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes"/>
 <!-- 
 ### Web Development:
 ### Tech I use: 
