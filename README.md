@@ -2,7 +2,10 @@
 <img src="assets/bg2.jpg" alt="Michael O'Grady" height="auto" width="850px">
 </p>
 <h2 align="center">Hi there :wave: I'm Michael O'Grady. Welcome to my <em>Professional Github Account</em>	&nbsp;<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="25" height="25"/></h2>
-<p align="center">🤵 Software Engineer | 💻 Full-Stack Developer | 📍🌍 West of Ireland 🏡☘️ | 🤵 Professional Account | 🏗️ Development & Production</p>
+<!-- <p align="center">🤵 Software Engineer | 💻 Full-Stack Developer | 📍🌍 West of Ireland 🏡☘️ | 🤵 Professional Account | 🏗️ Development & Production</p> -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=16&duration=7000&color=030A0E&background=FFFFFF&center=true&vCenter=true&width=1200&lines=++%F0%9F%A4%B5+Software+Engineer+%7C+%F0%9F%92%BB+Full-Stack+Developer+%7C+%F0%9F%93%8D%F0%9F%8C%8D+West+of+Ireland+%F0%9F%8F%A1%E2%98%98%EF%B8%8F+%7C+%F0%9F%A4%B5+Professional+Account+%7C+%F0%9F%8F%97%EF%B8%8F+Development+%26+Production++++++++++)](https://git.io/typing-svg)
+
 <p align="center">
   <em>My Professional Account consists mostly of private repositories for version control of proprietary software with other associated development tools, source code, productivity hacks & resources.</em> </p>
   
